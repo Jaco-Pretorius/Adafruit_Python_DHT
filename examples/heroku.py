@@ -6,7 +6,7 @@ import urllib2
 import time
 import Adafruit_DHT
 
-FREQUENCY_SECONDS = 30
+FREQUENCY_SECONDS = 60
 
 # Parse command line parameters.
 sensor_args = { '11': Adafruit_DHT.DHT11,
