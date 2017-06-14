@@ -3,6 +3,7 @@
 import sys
 import json
 import urllib2
+import time
 import Adafruit_DHT
 
 FREQUENCY_SECONDS = 30
